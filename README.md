@@ -1,4 +1,4 @@
-# .README 
+# README 
 FLEKS-Model é a comunidade para quem acredita que flexibilidade, valor, previsibilidade e agilidade podem caminhar juntos — sempre adaptados ao seu contexto.
 
 🚀 O Que é a Comunidade FLEKS-Model?
